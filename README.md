@@ -2,9 +2,7 @@
 The analysis examines energy consuption and energy generation in a home with a newly installed solar electrical system.  All home appliances and lawn equipment are electric.  In addition, an Electric Vehicle (EV) is charged multiple times in a given week. The analysis compares costs of energy consuption, cost avoidance from energy generated from solar power, and ultimately evaluates the return on investment (ROI) of the solar system implementatation.
 
 # Team Members:
-John Woodcock Jr. (the owner)
-Christopher Murphy
-Joshua Wiser
+John Woodcock Jr. (the system owner), Christopher Murphy, Joshua Wiser
 
 # Reason for Selecting this Topic:
 As of September 17, 2024, energy costs in Hawaii are higher than anywhere else in the United States. As of August 2024, families are paying 44.28 cents per kilowatt hour (kWh), almost three times the national average of 15.45 cents . The average gas price in Hawaii is $4.667 per gallon for regular unleaded fuel. This is again the highest in the nation and 35.5% higher than the national average . Sustainable living is not just an environmental imperative, it is essential to be able to maintain a comfortable lifestyle.
